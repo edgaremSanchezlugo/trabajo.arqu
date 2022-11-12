@@ -27,8 +27,8 @@ header{
     width: 100%;
     height: 600px;
     background: #1f4037;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, hsla(152, 78%, 77%, 0.404), hsla(164, 35%, 19%, 0.313)da), url(https://edgaremsanchezlugo.github.io/arquitectura.pag/img/portada.jpg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-background: linear-gradient(to right, hsla(152, 78%, 77%, 0.42), hsla(164, 35%, 19%, 0.58)), url(https://edgaremsanchezlugo.github.io/arquitectura.pag/img/portada.jpg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(to right, hsla(152, 78%, 77%, 0.404), hsla(164, 35%, 19%, 0.313)da), url(img/portada.jpg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: linear-gradient(to right, hsla(152, 78%, 77%, 0.42), hsla(164, 35%, 19%, 0.58)), url(img/portada.jpg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 background-size: cover;
 background-attachment: fixed;
 position: relative; 
